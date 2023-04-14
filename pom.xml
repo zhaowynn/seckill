@@ -104,7 +104,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>4.1.7.RELEASE</version>
+      <version>5.2.24.RELEASE</version>
     </dependency>
     <!--2)spring dao层依赖-->
     <dependency>
@@ -126,7 +126,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>4.1.7.RELEASE</version>
+      <version>5.2.24.RELEASE</version>
     </dependency>
     <!--4)spring test相关依赖-->
     <dependency>
